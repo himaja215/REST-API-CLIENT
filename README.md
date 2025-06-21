@@ -18,8 +18,9 @@ Next, the program creates a URL object from the API URL and establishes an HTTP 
 
 Error handling is implemented using a try-catch block to catch any exceptions that may occur during the process, such as issues with the API URL, network problems, or JSON parsing errors. If an error is encountered, a meaningful message is printed to help the user understand what went wrong. Overall, this program is a beginner-friendly demonstration of working with REST APIs in Java. It shows how to make network requests, read data from an online source, parse JSON responses, and interact with users through the console. To make the program fully functional, the user must replace "your_api_key" with a valid API key from OpenWeatherMap. This application can be further enhanced by displaying more weather details like humidity, wind speed, or by adding a GUI interface for better user experience.
 
-*OUTPUT* :Enter city name: Hyderabad
+*OUTPUT* :
 
+Enter city name: Hyderabad
 --- Weather Report ---
 City: Hyderabad
 Country: IN
