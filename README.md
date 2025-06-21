@@ -1,4 +1,4 @@
-# REST-API-CLIENT
+⁶# REST-API-CLIENT
 
 *COMPANY* : CODETECH IT SOLUTIONS
 
@@ -21,10 +21,17 @@ Error handling is implemented using a try-catch block to catch any exceptions th
 *OUTPUT* :
 
 Enter city name: Hyderabad
+
 --- Weather Report ---
+
 City: Hyderabad
+
 Country: IN
+
 Temperature: 32.5 °C
+
 Weather: Clouds
+
 Description: scattered clouds
+
  
